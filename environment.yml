@@ -2,7 +2,7 @@ channels:
 - conda-forge
 dependencies:
 # Jupyter
-- jupyterlab=3
+- jupyterlab=2
 - jupyter-offlinenotebook=0.2
 - nodejs=12
 - nbconvert=6
@@ -16,7 +16,7 @@ dependencies:
 - altair=4.1
 - bqplot=0.12.20
 - dask=2020.12
-- matplotlib=3.1
+- matplotlib=3.3.1
 - pandas=1
 - python=3.7
 - scikit-image=0.15
@@ -27,7 +27,7 @@ dependencies:
 - pyyaml
 - traittypes==0.2.1
 - invoke=1.2
-- ipympl=0.6.3
+- ipympl=0.5.8
 # C++ Kernel
 - xeus-cling=0.10
 - xtensor=0.20.8

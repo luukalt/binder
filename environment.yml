@@ -26,6 +26,7 @@ dependencies:
 - pyyaml
 - traittypes==0.2.1
 - invoke=1.2
+- ipympl=0.6.3
 # C++ Kernel
 - xeus-cling=0.10
 - xtensor=0.20.8
